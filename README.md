@@ -4,11 +4,15 @@
 ### Deployment Test with Validator and Logger
 Author: Sana Ishaqat
 
-[tests report (actions)](https://github.com/SanaIshaqat/basic-api-server/actions)
+[tests report (actions)](https://github.com/SanaIshaqat/api-server/actions)
 
-[back-end (heroku proof of life)](https://sana-basic-api-server-401.herokuapp.com/alive)
+[back-end (heroku proof of life)](https://sana-api-server-04.herokuapp.com/alive)
 
-[PR Link](https://github.com/SanaIshaqat/basic-api-server/pull/1)
+[back-end (food)](https://sana-api-server-04.herokuapp.com/food)
+
+[back-end (clothes)](https://sana-api-server-04.herokuapp.com/clothes)
+
+[PR Link](https://github.com/SanaIshaqat/api-server/pull/1)
 
 ### Setup
 .env requirements

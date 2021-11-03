@@ -33,8 +33,7 @@ async function getOneItem(req, res) {
     let updatedItem = await clothesCollection.update(id,obj);
     res.status(201).json(updatedItem);
   }
-
-   
+  
   async function deleteItem(req, res) {
     const id = parseInt(req.params.id);
     const deleteItem = await clothesCollection.delete(id);
